@@ -1,4 +1,4 @@
-I am Yachen Yin and now a master computer science student in Northeastern Univeristy. Currently, I am actively seeking for SDE internship/COOP opportunities and
+Hi, everyone! I am Yachen Yin and now a master computer science student in Northeastern Univeristy. Currently, I am actively seeking for SDE internship/COOP opportunities and
 am expected to graduate on May 2023. 
 
 If you are intereted in collaborating with me, don't hesistate to contact me !
