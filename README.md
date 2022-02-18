@@ -1,16 +1,18 @@
-### Hi there 👋
+I am Yachen Yin and now a master computer science student in Northeastern Univeristy. Currently, I am actively seeking for SDE internship/COOP opportunities and
+am expected to graduate on May 2023. 
 
-<!--
-**TjuAachen/TjuAachen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you are intereted in collaborating with me, don't hesistate to contact me !
 
-Here are some ideas to get you started:
+Email: yin.yac@northeastern.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linkedin Page: https://www.linkedin.com/in/yachen-yin-6b0411223/
+
+My skill sets:
+   - Programming languages: Python, Java, SQL, HTML/CSS, C++, MATLAB, Rstudio
+   - Web development related:
+        - Backend: node.js, express.js, JDBC/servlets
+        - Frontend: Bootstrap, javascript
+        - Database: MySQL, MongoDB
+        - Framework: REACT
+   - Mobile development related:
+        - Framework: REACT Native
