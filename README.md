@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yachen</h1>
 <h3 align="center">📚 A passionate learner aspires to become a software engineer</h3>
-👨‍🎓 I am currently pursuing Master's degree in Computer Science at Northeastern University. <br/>
-👯 I'm looking for internship opportunities to help me grow in the field to gain some mentorship from professionals in the field.<br/>
+👨‍🎓 I am pursuing Master's degree in Computer Science at Northeastern University. <br/>
+👯 I'm seeking internship opportunities in software development, especially the backend field.<br/>
 🎯 My further goal is to become an outstanding software engineer and help make world better.<br/>
-🌱 I’m currently learning Andriod Development and working on my app project.<br/>
+🌱 I’m learning android development and working on my first application.<br/>
 <img align="right" alt="Coding" width="380" src="https://c.tenor.com/bZhU_xsvon8AAAAd/scaler-create-impact.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
