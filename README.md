@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shasha</h1>
-<h3 align="center">📚 An enthusiastic learner aims to become a female software engineer</h3>
-👩‍🎓 I am currently pursuing Master's degree in Computer Science at Northeastern University. <br/>
+<h1 align="center">Hi 👋, I'm Yachen</h1>
+<h3 align="center">📚 A passionate learner aspires to become a software engineer</h3>
+👨‍🎓 I am currently pursuing Master's degree in Computer Science at Northeastern University. <br/>
 👯 I'm looking for internship opportunities to help me grow in the field to gain some mentorship from professionals in the field.<br/>
 🎯 My further goal is to become work as a full time software engineer and build the future of the world using my engineering skill.<br/>
 🌱 I’m currently learning Andriod Development and working on my app project.<br/>
